@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppEC3_FloresJhon</string>
+    <string name="valAcceso">Acceder</string>
+    <string name="valEmail">Email</string>
+    <string name="valContraseña">Contraseña</string>
+    <string name="valIngresao">Ingrese su distrito</string>
+    <string name="valInicio">Fecha de inicio</string>
+    <string name="valFin">Fecha de fin</string>
+    <string name="valReseñas">Reseñas</string>
+</resources>
